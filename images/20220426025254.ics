@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+PRODID:-//HockeyFinder.com//NONSGML iCalcreator 2.6//
+VERSION:2.0
+X-WR-CALNAME:HockeyFinder.com - Garbba the hutt
+X-WR-CALDESC:League Games - Team: Garbba the hutt
+X-WR-TIMEZONE:US/Central
+BEGIN:VEVENT
+UID:20220426T025254CEST-88615mNrwj@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nGarbba the hutt vs. Rogue Sean\nLeague Game Link: 
+ https://www.hockeyfinder.com/leagues/game/28207/\n
+DTSTART:20220404T213000
+DTEND:20220404T223000
+LOCATION:Bloomington Ice Garden\, Rink: Rink 2
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-8889BpXBlS@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nThe Milloneyum Falcon vs. Garbba the hutt\nLeague 
+ Game Link: https://www.hockeyfinder.com/leagues/game/28210/\n
+DTSTART:20220411T213000
+DTEND:20220411T223000
+LOCATION:Bloomington Ice Garden\, Rink: Rink 2
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-8922Fau5Og@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nGarbba the hutt vs. General Kenobi\nLeague Game Li
+ nk: https://www.hockeyfinder.com/leagues/game/28212/\n
+DTSTART:20220418T213000
+DTEND:20220418T223000
+LOCATION:Bloomington Ice Garden\, Rink: Rink 2
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-8953lUGT7n@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nRogue Sean vs. Garbba the hutt\nLeague Game Link: 
+ https://www.hockeyfinder.com/leagues/game/28214/\n
+DTSTART:20220425T213000
+DTEND:20220425T223000
+LOCATION:Bloomington Ice Garden\, Rink: Rink 2
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-8981zWVmEP@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nGarbba the hutt vs. The Milloneyum Falcon\nLeague 
+ Game Link: https://www.hockeyfinder.com/leagues/game/28215/\n
+DTSTART:20220502T204500
+DTEND:20220502T214500
+LOCATION:Bloomington Ice Garden\, Rink: Rink 1
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-9008Zj38z0@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nGeneral Kenobi vs. Garbba the hutt\nLeague Game Li
+ nk: https://www.hockeyfinder.com/leagues/game/28217/\n
+DTSTART:20220509T204500
+DTEND:20220509T214500
+LOCATION:Bloomington Ice Garden\, Rink: Rink 1
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-9035noMa1D@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nGarbba the hutt vs. Rogue Sean\nLeague Game Link: 
+ https://www.hockeyfinder.com/leagues/game/28219/\n
+DTSTART:20220516T204500
+DTEND:20220516T214500
+LOCATION:Bloomington Ice Garden\, Rink: Rink 1
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-9062zWEHls@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nThe Milloneyum Falcon vs. Garbba the hutt\nLeague 
+ Game Link: https://www.hockeyfinder.com/leagues/game/28222/\n
+DTSTART:20220523T204500
+DTEND:20220523T214500
+LOCATION:Bloomington Ice Garden\, Rink: Rink 1
+SUMMARY:League Game - Regular Season
+END:VEVENT
+BEGIN:VEVENT
+UID:20220426T025254CEST-9091H3MpXN@HockeyFinder.com
+DTSTAMP:20220426T005254Z
+DESCRIPTION:League Game\nGarbba the hutt vs. General Kenobi\nLeague Game Li
+ nk: https://www.hockeyfinder.com/leagues/game/28224/\n
+DTSTART:20220606T214500
+DTEND:20220606T224500
+LOCATION:Bloomington Ice Garden\, Rink: Rink 1
+SUMMARY:League Game - Regular Season
+END:VEVENT
+END:VCALENDAR

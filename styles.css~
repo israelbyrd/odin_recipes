@@ -1,0 +1,19 @@
+/*styles.css*/
+.description {
+    background-color:black;
+    color:green;
+}
+
+.ingredients {
+    font-family:"Arial";
+    font-size=24px;
+    color:pink;
+    background-color:purple;
+}
+
+.instructions {
+    font-family: "Garamond";
+    font-size=36;
+    color: lightblue;
+    background-color: gray;
+}
